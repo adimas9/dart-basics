@@ -1,3 +1,7 @@
-  var A = true;
-  var B = false;
-  var expr = A && B; //false
+import 'dart:io';
+
+void main() {
+  print("Masukkan nama:");
+  String? nama  = stdin.readLineSync();
+  print("Nama anda adalah ${nama}");
+}
