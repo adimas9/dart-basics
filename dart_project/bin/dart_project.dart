@@ -1,6 +1,3 @@
-//sintaks:
-for(inisiasi;kondisi;increment){
-    pernyataan1;
-    pernyataan2;
-    ...
+for(var=1;i<=10;i++>){
+    print("Number $i");
 }
