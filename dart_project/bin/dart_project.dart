@@ -1,3 +1,3 @@
-String kota = ‘Jepara’;
-if(kota == ‘Jepara’) true
-else false;
+  var A = true;
+  var B = false;
+  var expr = A && B; //false
